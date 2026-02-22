@@ -46,5 +46,5 @@
 <img width="604" height="583" alt="スクリーンショット 2026-02-15 222005" src="https://github.com/user-attachments/assets/e844f96c-8fd1-4703-897a-1672d827d8dc" />
 
 ## URL
-#### ・mogitate: http://localhost/products
+#### ・Mogitate(商品一覧画面): http://localhost/products
 #### ・phpmyadmin: http://localhost:8080/
